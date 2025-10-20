@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photo.jpg"
+  avatar           : "bio-photo.jpg"
   name             : "Weixuan Zhou"
   pronouns         : "she/her"  
   bio              : "PhD candidate"
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/weixuan-zhou-006938307/"
+  linkedin         : "/weixuan-zhou-006938307/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
