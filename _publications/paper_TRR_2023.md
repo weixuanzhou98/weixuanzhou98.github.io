@@ -7,7 +7,7 @@ excerpt: 'This paper evaluated the effectiveness of automatic emergency braking 
 date: 2023-03-22
 venue: 'Transportation Research Record'
 slidesurl: #
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://weixuanzhou98.github.io/files/paper1.pdf'
 bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
