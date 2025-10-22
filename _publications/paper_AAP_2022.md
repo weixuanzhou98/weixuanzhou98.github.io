@@ -2,7 +2,7 @@
 title: "Developing an improved automatic preventive braking system based on safety-critical car-following events from naturalistic driving study data"
 collection: publications
 category: manuscripts
-permalink: /publication/AAP2022.md
+permalink: /publication/paper_AAP_2022
 excerpt: 'This paper proposed an improved Automatic preventive braking (APB) which provide safe, efficient, and comfortable braking for AVs in car-following SCEs.'
 date: 2022-12-01
 venue: 'Accident Analysis and Prevention'
