@@ -14,10 +14,10 @@ About me
 
 Education
 ======
-:mortar_board: MSc in Transportation Engineering, 2023 
-<font face="Times New Roman">Tongji University</font> 
-:mortar_board: BSc in Transportation Engineering, 2020 
-<font face="Times New Roman">Tongji University</font> 
+:mortar_board: MSc in Transportation Engineering, 2023<br>
+<font face="Times New Roman">Tongji University</font><br>
+:mortar_board: BSc in Transportation Engineering, 2020<br>
+<font face="Times New Roman">Tongji University</font><br>
 
 Research Intrest
 ======
