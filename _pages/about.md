@@ -28,7 +28,7 @@ Research Intrest
 ======
 - Intelligent Transportation System
 - Connected and Autonomous Vehicle
-- cooperative adaptive cruise control
+- Cooperative adaptive cruise control
 - Platooning
 - Driving Behaviour Models
 - Collision Avoidance Models
