@@ -12,6 +12,11 @@ About me
 
 :mortar_board: Before joining Imperial, I received my master's degree in [Tongji University](https://www.tongji.edu.cn/eng/) in 2023, supervised by [Prof. Xuesong Wang](https://scholar.google.com/citations?user=qPNyQCsAAAAJ&hl=en). My thesis focused on developing AV collision avoidance algorithms in conflict scenarios between motorized and non-motorized vehicles. I also worked in [Tesla](https://www.tesla.com/) Shanghai R&D center as safety intern and associate active safety analysis Engineer from 2022 to 2023. 
 
+Open to Opportunities
+======
+:mortar_board: Expected PhD graduation: late 2027
+:briefcase: I'm open to full-time research and engineering opportunities in both industry and academia in the United States.
+
 Education
 ======
 <p>
