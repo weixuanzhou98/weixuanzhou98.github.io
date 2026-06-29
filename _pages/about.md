@@ -15,6 +15,7 @@ About me
 Open to Opportunities
 ======
 :mortar_board: Expected PhD graduation: late 2027
+
 :briefcase: I'm open to full-time research and engineering opportunities in both industry and academia in the United States.
 
 Education
